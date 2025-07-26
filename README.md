@@ -1,7 +1,6 @@
 # ASCEND: Altitude Selection for High-quality Cellular Connectivity on Drones
 
 ![Publication](https://img.shields.io/badge/Publication-IEEE%20TVT-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## About This Repository
 
